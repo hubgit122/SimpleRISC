@@ -149,11 +149,11 @@ Though very simple with the absence of the executing out-of-order feature and th
 <td>1100</td>
 <td>010</td>
 <td>rs1</td>
-<td colspan='2'>offset    </td></tr></tbody></table>
+<td colspan='2'>offset</td></tr></tbody></table>
 
 ### Data Path
 After some optimization, the final data path is illustrated below. 
 
-![Data Path](datapath.PNG)
+![Data Path](https://github.com/ssqstone/SimpleRISC/blob/master/datapath.PNG?raw=true)
 
 ** Note: All the materials are from my class "High Performance Computer Systems", and all rights reserved. **
