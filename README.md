@@ -1,5 +1,5 @@
 ---
-# SimpleRISC
+# [SimpleRISC](https://github.com/ssqstone/SimpleRISC)
 
 ---
 
