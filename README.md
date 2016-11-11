@@ -154,6 +154,6 @@ Though very simple with the absence of the executing out-of-order feature and th
 ### Data Path
 After some optimization, the final data path is illustrated below. 
 
-![Data Path](https://github.com/ssqstone/SimpleRISC/blob/master/datapath.PNG?raw=true)
+<br/><br/><a href="https://github.com/ssqstone/SimpleRISC/blob/master/datapath.PNG?raw=true"> <img  href="https://github.com/ssqstone/SimpleRISC/blob/master/datapath.PNG?raw=true" style="display: block; margin: auto; width: 50%" src="https://github.com/ssqstone/SimpleRISC/blob/master/datapath.PNG?raw=true"></a><p  style="text-align: center;" > <a href="https://github.com/ssqstone/SimpleRISC/blob/master/datapath.PNG?raw=true"> Data Path </a> </p><br/><br/>
 
 ** Note: All the materials are from my class "High Performance Computer Systems", and all rights reserved. **
