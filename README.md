@@ -4,7 +4,7 @@
 ---
 
 ## General
-** SimpleRISC ** is a optional coursework of one of my favorite class -- High Performance Computer Systems, lectured by Weiwu Hu, the chief engineer of [Loongson](https://en.wikipedia.org/wiki/Loongson). 
+** SimpleRISC ** is an optional coursework of one of my favorite class -- High Performance Computer Systems, lectured by Weiwu Hu, the chief engineer of [Loongson](https://en.wikipedia.org/wiki/Loongson). 
 
 Though very simple with the absence of the executing out-of-order feature and the memory access feature and a very simple ISA, this simple "CPU" implementation employs a full featured in-order pipeline, witch is very useful in understanding the essence of the superscalar feature of modern CPU micro-architecture design. 
 
