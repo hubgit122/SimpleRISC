@@ -4,15 +4,15 @@
 ---
 
 ## General
-** SimpleRISC ** is an optional coursework of one of my favorite class -- High Performance Computer Systems, lectured by Weiwu Hu, the chief engineer of [Loongson](https://en.wikipedia.org/wiki/Loongson). 
+** SimpleRISC ** is an optional coursework of one of my favorite class -- High-Performance Computer Systems, lectured by Weiwu Hu, the chief engineer of [Loongson](https://en.wikipedia.org/wiki/Loongson). 
 
-Though very simple with the absence of the executing out-of-order feature and the memory access feature and a very simple ISA, this simple "CPU" implementation employs a full featured in-order pipeline, witch is very useful in understanding the essence of the superscalar feature of modern CPU micro-architecture design. 
+Though very simple with the absence of the executing out-of-order feature and the memory access feature and a very simple ISA, this simple "CPU" implementation employs a full featured in-order pipeline, which is very useful in understanding the essence of the superscalar feature of modern CPU micro-architecture design. 
 
 ## The Instruction Set
 
 ### Basic Features
  * RISC
- * 16 bit width instructions and data
+ * 16-bit width instructions and data
  * 8 GPR (general purpose registers), #0 GPR is always zero
  * one fixed-point ALU
  
@@ -156,4 +156,6 @@ After some optimization, the final data path is illustrated below.
 
 <br/><br/><a target="_blank" href="https://github.com/ssqstone/SimpleRISC/blob/master/datapath.PNG?raw=true"> <img  href="https://github.com/ssqstone/SimpleRISC/blob/master/datapath.PNG?raw=true" style="display: block; margin: auto; width: 50%" src="https://github.com/ssqstone/SimpleRISC/blob/master/datapath.PNG?raw=true"></a><p  style="text-align: center;" > <a target="_blank" href="https://github.com/ssqstone/SimpleRISC/blob/master/datapath.PNG?raw=true"> Data Path </a> </p><br/><br/>
 
-** Note: All the materials are from my class "High Performance Computer Systems", and all rights reserved. **
+** Note: All the materials are from my class "High-Performance Computer Systems", and all rights reserved. **
+
+<small>This is just a simple course work at the very begining of the course, and the whole course is far more complex than this small course work.</small>
